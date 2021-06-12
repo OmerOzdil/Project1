@@ -7,6 +7,7 @@ public class HelloWorld3 {
 		// this line comes from the remote
 		//last commit
 		// extra line added here
+		// new line added
 
 	}
 
